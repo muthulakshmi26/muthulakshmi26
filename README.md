@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muthulakshmi M😃✨</h1>
 <h3 align="center">A passionate Data Analyst!👀</h3>
 
-<image align = "right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FGulchinTaghizade&psig=AOvVaw0rUAIllq86-_vGAhRX-qtj&ust=1697093876057000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODgye607YEDFQAAAAAdAAAAABAX.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muthulakshmi26&label=Profile%20views&color=0e75b6&style=flat" alt="muthulakshmi26" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **m.muthulakshmi4321@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HR-axAfJBAREWMSbmJsTXbTjAiigdSu4/view?usp=drive_link](https://drive.google.com/file/d/1HR-axAfJBAREWMSbmJsTXbTjAiigdSu4/view?usp=drive_link)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

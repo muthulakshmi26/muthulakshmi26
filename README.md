@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development, Deep Learning📈**
 
-- 📫 How to reach me **m.muthulakshmi@gmail.com**
+- 📫 How to reach me **m.muthulakshmi4321@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1HR-axAfJBAREWMSbmJsTXbTjAiigdSu4/view?usp=drive_link](https://drive.google.com/file/d/1HR-axAfJBAREWMSbmJsTXbTjAiigdSu4/view?usp=drive_link)
 

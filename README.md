@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muthulakshmi M😃✨</h1>
-<h3 align="center">A passionate Data Analyst!👀</h3>
+<h3 align="center">👀</h3>
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muthulakshmi26&label=Profile%20views&color=0e75b6&style=flat" alt="muthulakshmi26" /> </p>
 
-- 🔭 I’m currently working on **PowerBi, Python✍**
 
-- 🌱 I’m currently learning **Full Stack Development, Deep Learning📈**
+- 🌱 I’m currently learning **Full Stack Development,ML📈**
 
 - 📫 How to reach me **m.muthulakshmi4321@gmail.com**
 
